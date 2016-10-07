@@ -1,4 +1,4 @@
 Lotus
 =====
 
-A simple Javascript module loader
+A simple Javascript module loader. Similar to require.js
